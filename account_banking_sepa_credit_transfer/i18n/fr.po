@@ -1,32 +1,26 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * account_banking_sepa_credit_transfer
-#
-# Translators:
-# Nicolas JEUDY <njeudy@panda-chi.io>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-10 02:10+0000\n"
-"PO-Revision-Date: 2018-02-10 02:10+0000\n"
-"Last-Translator: Nicolas JEUDY <njeudy@panda-chi.io>, 2018\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_banking_sepa_credit_transfer/i18n/account_banking_sepa_credit_transfer.pot\n"
+"X-Crowdin-File-ID: 2782\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:36\n"
 
 #. module: account_banking_sepa_credit_transfer
 #: code:addons/account_banking_sepa_credit_transfer/models/account_payment_order.py:0
 #, python-format
-msgid ""
-"Bank account is missing on the bank payment line of partner '%s' (reference "
-"'%s')."
-msgstr ""
-"Le compte bancaire est manquant sur la ligne de paiement bancaire du "
-"partenaire '%s' (référence '%s')."
+msgid "Bank account is missing on the bank payment line of partner '%s' (reference '%s')."
+msgstr "Le compte bancaire est manquant sur la ligne de paiement bancaire du partenaire '%s' (référence '%s')."
 
 #. module: account_banking_sepa_credit_transfer
 #: model:ir.model.fields.selection,name:account_banking_sepa_credit_transfer.selection__account_payment_line__local_instrument__inst
@@ -44,6 +38,7 @@ msgid "PAIN Version"
 msgstr ""
 
 #. module: account_banking_sepa_credit_transfer
+#: code:addons/account_banking_sepa_credit_transfer/models/account_payment_order.py:0
 #: code:addons/account_banking_sepa_credit_transfer/models/account_payment_order.py:0
 #, python-format
 msgid "PAIN version '%s' is not supported."
@@ -94,3 +89,4 @@ msgstr ""
 #: model:ir.model.fields.selection,name:account_banking_sepa_credit_transfer.selection__account_payment_method__pain_version__pain_001_003_03
 msgid "pain.001.003.03 (credit transfer in Germany)"
 msgstr ""
+
