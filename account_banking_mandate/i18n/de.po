@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_banking_mandate/i18n/account_banking_mandate.pot\n"
 "X-Crowdin-File-ID: 2770\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:36\n"
+"PO-Revision-Date: 2022-08-07 00:03\n"
 
 #. module: account_banking_mandate
 #: model_terms:ir.actions.act_window,help:account_banking_mandate.mandate_action
@@ -34,7 +34,7 @@ msgstr "Ein generisches Bankmandat"
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "Aktion erforderlich"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,help:account_banking_mandate.field_account_move__mandate_required
@@ -46,7 +46,7 @@ msgstr ""
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_attachment_count
 msgid "Attachment Count"
-msgstr ""
+msgstr "Anzahl der Anhänge"
 
 #. module: account_banking_mandate
 #: model_terms:ir.ui.view,arch_db:account_banking_mandate.view_mandate_form
@@ -61,7 +61,7 @@ msgstr "Bankkonto"
 #. module: account_banking_mandate
 #: model:ir.model,name:account_banking_mandate.model_res_partner_bank
 msgid "Bank Accounts"
-msgstr ""
+msgstr "Bankkonten"
 
 #. module: account_banking_mandate
 #: model:ir.model,name:account_banking_mandate.model_bank_payment_line
@@ -192,17 +192,17 @@ msgstr ""
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_follower_ids
 msgid "Followers"
-msgstr ""
+msgstr "Beobachter"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_channel_ids
 msgid "Followers (Channels)"
-msgstr ""
+msgstr "Beobachter (Kanäle)"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_partner_ids
 msgid "Followers (Partners)"
-msgstr ""
+msgstr "Beobachter (Partner)"
 
 #. module: account_banking_mandate
 #: model_terms:ir.ui.view,arch_db:account_banking_mandate.view_mandate_form
@@ -229,18 +229,18 @@ msgstr "ID"
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__message_needaction
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__message_unread
 msgid "If checked, new messages require your attention."
-msgstr ""
+msgstr "Wenn aktiviert, benötigen neue Nachrichten Ihre Aufmerksamkeit."
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__message_has_error
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
-msgstr ""
+msgstr "Wenn aktiviert, haben einige Nachrichten einen Zustellfehler."
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_is_follower
 msgid "Is Follower"
-msgstr ""
+msgstr "Ist Beobachter"
 
 #. module: account_banking_mandate
 #: model:ir.model,name:account_banking_mandate.model_account_move
@@ -270,7 +270,7 @@ msgstr "Zuletzt aktualisiert am"
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_main_attachment_id
 msgid "Main Attachment"
-msgstr ""
+msgstr "Hauptanhang"
 
 #. module: account_banking_mandate
 #: model_terms:ir.ui.view,arch_db:account_banking_mandate.bank_payment_line_tree
@@ -320,12 +320,12 @@ msgstr "Mandate"
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_has_error
 msgid "Message Delivery error"
-msgstr ""
+msgstr "Fehler beim Versenden der Nachrichten"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_ids
 msgid "Messages"
-msgstr ""
+msgstr "Mitteilungen"
 
 #. module: account_banking_mandate
 #: code:addons/account_banking_mandate/models/account_payment_line.py:0
@@ -336,7 +336,7 @@ msgstr ""
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_needaction_counter
 msgid "Number of Actions"
-msgstr ""
+msgstr "Anzahl Aktionen"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_res_partner__mandate_count
@@ -347,22 +347,22 @@ msgstr "Anzahl der Mandate"
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_has_error_counter
 msgid "Number of errors"
-msgstr ""
+msgstr "Anzahl Fehler"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__message_needaction_counter
 msgid "Number of messages which requires an action"
-msgstr ""
+msgstr "Anzahl der Nachrichten, die eine Aktion erfordern"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr ""
+msgstr "Anzahl der Nachrichten mit Zustellfehlern"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__message_unread_counter
 msgid "Number of unread messages"
-msgstr ""
+msgstr "Anzahl ungelesener Nachrichten"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__state
@@ -414,7 +414,7 @@ msgstr "Zugehörige Zahlungszeilen"
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_has_sms_error
 msgid "SMS Delivery error"
-msgstr ""
+msgstr "SMS-Zustellungsfehler"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__scan
@@ -502,12 +502,12 @@ msgstr "Eindeutige Mandantenreferenz"
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_unread
 msgid "Unread Messages"
-msgstr ""
+msgstr "Ungelesene Nachrichten"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr ""
+msgstr "Zähler für ungelesene Nachrichten"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields.selection,name:account_banking_mandate.selection__account_banking_mandate__state__valid
@@ -524,12 +524,12 @@ msgstr "Bestätigen"
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__website_message_ids
 msgid "Website Messages"
-msgstr ""
+msgstr "Webseiten Nachrichten"
 
 #. module: account_banking_mandate
 #: model:ir.model.fields,help:account_banking_mandate.field_account_banking_mandate__website_message_ids
 msgid "Website communication history"
-msgstr ""
+msgstr "Webseiten-Kommunikationsverlauf"
 
 #. module: account_banking_mandate
 #: code:addons/account_banking_mandate/models/res_partner_bank.py:0
