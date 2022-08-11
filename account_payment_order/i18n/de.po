@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_payment_order/i18n/account_payment_order.pot\n"
 "X-Crowdin-File-ID: 2796\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:18\n"
+"PO-Revision-Date: 2022-08-11 16:30\n"
 
 #. module: account_payment_order
 #: code:addons/account_payment_order/models/account_move.py:0
@@ -598,7 +598,7 @@ msgstr "Ist Beobachter"
 #. module: account_payment_order
 #: model:ir.model,name:account_payment_order.model_account_journal
 msgid "Journal"
-msgstr ""
+msgstr "Journal"
 
 #. module: account_payment_order
 #: model:ir.model,name:account_payment_order.model_account_move
