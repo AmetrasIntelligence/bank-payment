@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_payment_mode/i18n/account_payment_mode.pot\n"
 "X-Crowdin-File-ID: 2792\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:36\n"
+"PO-Revision-Date: 2022-08-11 15:18\n"
 
 #. module: account_payment_mode
 #: model:ir.model.constraint,message:account_payment_mode.constraint_account_payment_method_code_payment_type_unique
@@ -233,7 +233,7 @@ msgstr "Ausgehend"
 #: model_terms:ir.ui.view,arch_db:account_payment_mode.account_payment_method_form
 #: model_terms:ir.ui.view,arch_db:account_payment_mode.account_payment_mode_search
 msgid "Payment Method"
-msgstr ""
+msgstr "Zahlungsmethode"
 
 #. module: account_payment_mode
 #: model:ir.actions.act_window,name:account_payment_mode.account_payment_method_action
