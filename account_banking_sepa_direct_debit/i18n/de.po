@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_banking_sepa_direct_debit/i18n/account_banking_sepa_direct_debit.pot\n"
 "X-Crowdin-File-ID: 2784\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:36\n"
+"PO-Revision-Date: 2022-08-12 12:59\n"
 
 #. module: account_banking_sepa_direct_debit
 #: model_terms:ir.ui.view,arch_db:account_banking_sepa_direct_debit.sepa_direct_debit_mandate_document
@@ -195,12 +195,12 @@ msgstr "Geschäftlich (B2B)"
 #. module: account_banking_sepa_direct_debit
 #: model:ir.model.fields.selection,name:account_banking_sepa_direct_debit.selection__account_banking_mandate__recurrent_sequence_type__final
 msgid "Final"
-msgstr "Endgültig"
+msgstr "Letzte"
 
 #. module: account_banking_sepa_direct_debit
 #: model:ir.model.fields.selection,name:account_banking_sepa_direct_debit.selection__account_banking_mandate__recurrent_sequence_type__first
 msgid "First"
-msgstr "Hoch"
+msgstr "Erste"
 
 #. module: account_banking_sepa_direct_debit
 #: code:addons/account_banking_sepa_direct_debit/models/account_payment_order.py:0
