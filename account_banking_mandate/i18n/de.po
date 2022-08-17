@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_banking_mandate/i18n/account_banking_mandate.pot\n"
 "X-Crowdin-File-ID: 2770\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-08 02:16\n"
+"PO-Revision-Date: 2022-08-17 15:19\n"
 
 #. module: account_banking_mandate
 #: model_terms:ir.actions.act_window,help:account_banking_mandate.mandate_action
@@ -440,7 +440,7 @@ msgstr "Status"
 #. module: account_banking_mandate
 #: model:ir.model.fields,field_description:account_banking_mandate.field_account_banking_mandate__state
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #. module: account_banking_mandate
 #: code:addons/account_banking_mandate/models/account_banking_mandate.py:0
