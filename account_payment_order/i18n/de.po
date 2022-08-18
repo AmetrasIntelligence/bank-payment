@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_payment_order/i18n/account_payment_order.pot\n"
 "X-Crowdin-File-ID: 2796\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 16:15\n"
+"PO-Revision-Date: 2022-08-18 15:26\n"
 
 #. module: account_payment_order
 #: code:addons/account_payment_order/models/account_move.py:0
@@ -169,7 +169,7 @@ msgstr "Zurück zum Entwurf"
 #. module: account_payment_order
 #: model:ir.model,name:account_payment_order.model_res_bank
 msgid "Bank"
-msgstr ""
+msgstr "Bank"
 
 #. module: account_payment_order
 #: model:ir.model.fields,field_description:account_payment_order.field_bank_payment_line__partner_bank_id
@@ -984,7 +984,7 @@ msgstr "Zahlungsreferenz"
 #: model:ir.model.fields,field_description:account_payment_order.field_account_payment_order__payment_type
 #: model:ir.model.fields,field_description:account_payment_order.field_bank_payment_line__payment_type
 msgid "Payment Type"
-msgstr ""
+msgstr "Zahlungsart"
 
 #. module: account_payment_order
 #: code:addons/account_payment_order/models/account_payment_order.py:0
