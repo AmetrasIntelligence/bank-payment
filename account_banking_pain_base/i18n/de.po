@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_banking_pain_base/i18n/account_banking_pain_base.pot\n"
 "X-Crowdin-File-ID: 2776\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 09:14\n"
+"PO-Revision-Date: 2022-08-18 15:26\n"
 
 #. module: account_banking_pain_base
 #: model:ir.model.constraint,message:account_banking_pain_base.constraint_account_payment_method_code_payment_type_unique
@@ -59,7 +59,7 @@ msgstr ""
 #. module: account_banking_pain_base
 #: model:ir.model,name:account_banking_pain_base.model_res_bank
 msgid "Bank"
-msgstr ""
+msgstr "Bank"
 
 #. module: account_banking_pain_base
 #: model:ir.model,name:account_banking_pain_base.model_bank_payment_line
