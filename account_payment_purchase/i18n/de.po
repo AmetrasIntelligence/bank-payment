@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_payment_purchase/i18n/account_payment_purchase.pot\n"
 "X-Crowdin-File-ID: 2810\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:36\n"
+"PO-Revision-Date: 2022-10-05 13:10\n"
 
 #. module: account_payment_purchase
 #: model:ir.model,name:account_payment_purchase.model_account_move
@@ -24,7 +24,7 @@ msgstr "Buchungseinträge"
 #. module: account_payment_purchase
 #: model:ir.model.fields,field_description:account_payment_purchase.field_purchase_order__payment_mode_id
 msgid "Payment Mode"
-msgstr ""
+msgstr "Zahlungsmethode"
 
 #. module: account_payment_purchase
 #: model:ir.model,name:account_payment_purchase.model_purchase_order
