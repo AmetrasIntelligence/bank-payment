@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_payment_sale/i18n/account_payment_sale.pot\n"
 "X-Crowdin-File-ID: 2820\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:36\n"
+"PO-Revision-Date: 2022-10-05 13:10\n"
 
 #. module: account_payment_sale
 #: model_terms:ir.ui.view,arch_db:account_payment_sale.report_sale_payment_mode
@@ -29,7 +29,7 @@ msgstr "Buchungseinträge"
 #. module: account_payment_sale
 #: model:ir.model.fields,field_description:account_payment_sale.field_sale_order__payment_mode_id
 msgid "Payment Mode"
-msgstr ""
+msgstr "Zahlungsmethode"
 
 #. module: account_payment_sale
 #: model:ir.model,name:account_payment_sale.model_sale_advance_payment_inv
