@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_banking_sepa_direct_debit/i18n/account_banking_sepa_direct_debit.pot\n"
 "X-Crowdin-File-ID: 2784\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-12 12:59\n"
+"PO-Revision-Date: 2022-10-05 13:10\n"
 
 #. module: account_banking_sepa_direct_debit
 #: model_terms:ir.ui.view,arch_db:account_banking_sepa_direct_debit.sepa_direct_debit_mandate_document
@@ -250,7 +250,7 @@ msgstr "Zahlungsmethoden"
 #. module: account_banking_sepa_direct_debit
 #: model:ir.model,name:account_banking_sepa_direct_debit.model_account_payment_mode
 msgid "Payment Modes"
-msgstr ""
+msgstr "Zahlungsmethoden"
 
 #. module: account_banking_sepa_direct_debit
 #: model:ir.model,name:account_banking_sepa_direct_debit.model_account_payment_order
