@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_payment_order/i18n/account_payment_order.pot\n"
 "X-Crowdin-File-ID: 2796\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 15:26\n"
+"PO-Revision-Date: 2022-10-05 13:10\n"
 
 #. module: account_payment_order
 #: code:addons/account_payment_order/models/account_move.py:0
@@ -937,7 +937,7 @@ msgstr "Zahlungsmethoden"
 #: model:ir.model.fields,field_description:account_payment_order.field_account_payment_order__payment_mode_id
 #: model_terms:ir.ui.view,arch_db:account_payment_order.account_payment_order_search
 msgid "Payment Mode"
-msgstr ""
+msgstr "Zahlungsmethode"
 
 #. module: account_payment_order
 #: model:ir.model.fields,field_description:account_payment_order.field_account_payment_mode__default_payment_mode
@@ -947,7 +947,7 @@ msgstr ""
 #. module: account_payment_order
 #: model:ir.model,name:account_payment_order.model_account_payment_mode
 msgid "Payment Modes"
-msgstr ""
+msgstr "Zahlungsmethoden"
 
 #. module: account_payment_order
 #: model:ir.actions.report,name:account_payment_order.action_print_payment_order
