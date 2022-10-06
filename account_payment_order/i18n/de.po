@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_payment_order/i18n/account_payment_order.pot\n"
 "X-Crowdin-File-ID: 2796\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-05 13:10\n"
+"PO-Revision-Date: 2022-10-06 07:44\n"
 
 #. module: account_payment_order
 #: code:addons/account_payment_order/models/account_move.py:0
@@ -283,7 +283,7 @@ msgstr "Zahlungen bestätigen"
 #: model:ir.model.fields.selection,name:account_payment_order.selection__account_payment_order__state__open
 #: model_terms:ir.ui.view,arch_db:account_payment_order.account_payment_order_search
 msgid "Confirmed"
-msgstr ""
+msgstr "Bestätigt"
 
 #. module: account_payment_order
 #: model_terms:ir.ui.view,arch_db:account_payment_order.account_invoice_payment_line_multi_form
