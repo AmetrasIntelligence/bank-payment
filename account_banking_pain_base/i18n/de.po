@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_banking_pain_base/i18n/account_banking_pain_base.pot\n"
 "X-Crowdin-File-ID: 2776\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-05 13:10\n"
+"PO-Revision-Date: 2022-11-16 14:09\n"
 
 #. module: account_banking_pain_base
 #: model:ir.model.constraint,message:account_banking_pain_base.constraint_account_payment_method_code_payment_type_unique
@@ -29,7 +29,7 @@ msgstr ""
 #. module: account_banking_pain_base
 #: model:ir.model.fields.selection,name:account_banking_pain_base.selection__account_payment_line__purpose__adva
 msgid "Advance Payment"
-msgstr "Vorauszahlung"
+msgstr "Anzahlung"
 
 #. module: account_banking_pain_base
 #: model:ir.model.fields.selection,name:account_banking_pain_base.selection__account_payment_line__purpose__agrt
