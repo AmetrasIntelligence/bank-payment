@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.bank-payment] 13.0/account_banking_sepa_direct_debit/i18n/account_banking_sepa_direct_debit.pot\n"
 "X-Crowdin-File-ID: 2784\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-05 13:10\n"
+"PO-Revision-Date: 2022-12-14 15:57\n"
 
 #. module: account_banking_sepa_direct_debit
 #: model_terms:ir.ui.view,arch_db:account_banking_sepa_direct_debit.sepa_direct_debit_mandate_document
@@ -119,7 +119,10 @@ msgid "As part of your rights, you are entitled to a refund from\n"
 "                        your bank under the terms and conditions of your agreement\n"
 "                        with your bank.\n"
 "                        A refund must be claimed within 8 weeks starting from the date on which your account was debited."
-msgstr ""
+msgstr "Im Rahmen Ihrer Rechte haben Sie Anspruch auf eine Erstattung durch\n"
+"                        Ihrer Bank gemäß den Bedingungen Ihres Vertrags mit Ihrer\n"
+"                        mit Ihrer Bank.\n"
+"                        Die Erstattung muss innerhalb von 8 Wochen ab dem Datum der Abbuchung von Ihrem Konto beantragt werden."
 
 #. module: account_banking_sepa_direct_debit
 #: code:addons/account_banking_sepa_direct_debit/models/account_banking_mandate.py:0
@@ -358,7 +361,10 @@ msgid "This mandate is only intended for business-to-business transactions.\n"
 "                        You are not entitled to a refund from your bank after your account has\n"
 "                        been debited, but you are entitled to request your bank\n"
 "                        not to debit your account up until the day on which the payment is due."
-msgstr ""
+msgstr "Dieses Mandat ist nur für den Geschäftsverkehr zwischen Unternehmen bestimmt.\n"
+"                        Sie haben keinen Anspruch auf eine Erstattung durch Ihre Bank, nachdem Ihr Konto\n"
+"                        belastet wurde, Sie haben jedoch das Recht, Ihre Bank aufzufordern\n"
+"                        Ihr Konto bis zum Tag der Fälligkeit der Zahlung nicht zu belasten."
 
 #. module: account_banking_sepa_direct_debit
 #: model_terms:ir.ui.view,arch_db:account_banking_sepa_direct_debit.sepa_direct_debit_mandate_document
